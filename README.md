@@ -1,6 +1,5 @@
-# Sri-Lankan-Flood-Risk-Prediction
+# Sri-Lankan-Flood-Risk-Prediction Using Machine Learning
 Machine Learning and Power BI project for analyzing and predicting flood risk in Sri Lanka using environmental and geographic factors.
-# Sri Lankan Flood Risk Prediction Using Machine Learning
 
 ## Project Overview
 
