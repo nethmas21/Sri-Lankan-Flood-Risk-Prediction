@@ -114,12 +114,16 @@ An interactive Power BI dashboard was developed to communicate findings effectiv
 * Flood Percentage
 * Flood Occurrence Distribution
 
+![Flood Risk Overview](images/overview_dashboard.png)
+
 ### 2. Geographic Risk Analysis
 
 * Top Flood-Prone Districts
 * District Filtering
 * Flood Risk Score by District
 * Geographic Flood Risk Map
+
+![Geographic Risk Analysis](images/geographic_analysis.png)
 
 ### 3. Machine Learning Insights
 
@@ -129,6 +133,8 @@ An interactive Power BI dashboard was developed to communicate findings effectiv
 * F1 Score
 * Feature Importance Visualization
 * Key Findings Summary
+
+![Machine Learning Insights](images/machine_learning_insights.png)
 
 ---
 
